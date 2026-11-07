@@ -40,6 +40,14 @@ https://jmp2.uk/plu-63f87d057533d80008ab9549.m3u8
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:-1 group-title="Cartoons" tvg-logo="" tvg-id="",Toonami Aftermath West
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="" tvg-id="",70's Cinema
+https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="" tvg-id="",80's Rewind
+https://jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="" tvg-id="",90's Throwback
+https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="" tvg-id="",00's Replay
+https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="" tvg-id="",Paramount Movie Channel
 https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="" tvg-id="",Action Hollywood Movies
