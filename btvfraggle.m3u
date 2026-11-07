@@ -24,6 +24,8 @@ https://jmp2.uk/plu-6486e8984cfc2c0008b6844e.m3u8
 https://jmp2.uk/plu-677f927554f43dad4b3258aa.m3u8
 #EXTINF:-1 group-title="Cartoons" tvg-logo="" tvg-id="",Los Pitufos
 https://jmp2.uk/plu-68d27949793c71d988ca624c.m3u8
+#EXTINF:-1 group-title="Cartoons" tvg-logo="" tvg-id="",METV Toons
+https://sr-live-weigel1.akamaized.net/out/v1/0d1dbf29e64e47bc991796cc24fbeb97/index_2.m3u8
 #EXTINF:-1 group-title="Cartoons" tvg-logo="" tvg-id="",Retro Toons
 https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8
 #EXTINF:-1 group-title="Cartoons" tvg-logo="" tvg-id="",Rick And Morty
@@ -158,8 +160,12 @@ https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playl
 https://amg00376-magellan-amg00376c13-vizio-us-1392.playouts.now.amagi.tv/playlist/amg00376-magellantv-spacesciencenowmainus-vizious/playlist.m3u8
 #EXTINF:-1 group-title="Nature & Science" tvg-logo="" tvg-id="Curiosity.NOW.us2.us (src05)",Curiosity Now
 https://amg00170-curiositystream-amg00170c3-rakuten-us-2289.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynowrow-rakutenus/playlist.m3u8
+#EXTINF:-1 group-title="Nature & Science" tvg-logo="" tvg-id="",Documentary+
+https://d1kx9y4yhe8h6h.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Nature & Science" tvg-logo="" tvg-id="",History 365
 https://pb-162j8hrspp1iq.akamaized.net/History_365.m3u8
+#EXTINF:-1 group-title="Nature & Science" tvg-logo="" tvg-id="",History Hit
+https://lds-timeline-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Nature & Science" tvg-logo="" tvg-id="",How To
 https://amg00136-wbd-amg00136c16-tablo-us-7100.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Nature & Science" tvg-logo="" tvg-id="",InWonder
@@ -184,6 +190,8 @@ https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/playlist/a
 https://d3mr43kyql7wgk.cloudfront.net/PBS_Nature.m3u8
 #EXTINF:-1 group-title="Nature & Science" tvg-logo="" tvg-id="(no tvg-id)",PBS Science
 https://amg02333-pbs-amg02333c13-samsung-au-6858.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Nature & Science" tvg-logo="" tvg-id="(no tvg-id)",PBS Travel
+https://d3hqevbyoxtkoi.cloudfront.net/PBS_Travel.m3u8
 #EXTINF:-1 group-title="Nature & Science" tvg-logo="" tvg-id="",River Monsters
 https://amg00654-itv-amg00654c24-rakuten-gb-8166.playouts.now.amagi.tv/playlist/amg00654-itvstudiosfast-rivermonsterenglish-rakutengb/playlist.m3u8
 #EXTINF:-1 group-title="Nature & Science" tvg-logo="" tvg-id="",Science Is Amazing
@@ -350,6 +358,8 @@ https://d1d726ny1vain2.cloudfront.net/playlist.m3u8
 https://amg01487-amg01487c3-amgplt0002.playout.now3.amagi.tv/playlist/amg01487-amg01487c3-amgplt0002/playlist.m3u8
 #EXTINF:-1 group-title="TV Networks" tvg-logo="" tvg-id="",Ebony TV
 https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8
+#EXTINF:-1 group-title="TV Networks" tvg-logo="" tvg-id="",ElectricNOW
+https://pb-aexv6wqzkg929.akamaized.net/ElectricNOW.m3u8
 #EXTINF:-1 group-title="TV Networks" tvg-logo="" tvg-id="XPLCAFC.us (m3u4u)",FilmRise British TV
 https://aka-live1050.delivery.roku.com/d04b9af6-41da-4768-88ed-5b2225bbfb60/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="TV Networks" tvg-logo="" tvg-id="XPLCAFC.us (m3u4u)",FilmRise Classic
@@ -370,6 +380,8 @@ https://pb-4l6m6c7pca5dy.akamaized.net/playlist.m3u8
 https://amg00353-amg00353c17-lg-us-6063.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV Networks" tvg-logo="" tvg-id="",RetroTV
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8
+#EXTINF:-1 group-title="TV Networks" tvg-logo="" tvg-id="",Shout! TV
+https://d1s1wrpgemt9re.cloudfront.net/Shout_TV.m3u8
 #EXTINF:-1 group-title="TV Networks" tvg-logo="" tvg-id="",TBS
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="TV Networks" tvg-logo="" tvg-id="",TV Land Drama
